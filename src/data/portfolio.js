@@ -33,7 +33,7 @@ export const skills = [
     icon: BarChart3,
     items: ["Pandas", "NumPy", "Data Cleaning", "Data Transformation", "Data Visualization", "SQL Analysis", "Reporting"]
   },
-  { title: "Tools", icon: Wrench, items: ["Git", "GitHub", "VS Code", "Jupyter Notebook", "Excel"] },
+  { title: "Tools", icon: Wrench, items: ["Git", "GitHub", "VS Code", "Jupyter Notebook", "Excel", "PowerBI", "Wordpress"] },
   { title: "Concepts", icon: BrainCircuit, items: ["OOP", "DBMS", "Software Testing", "Machine Learning"] }
 ];
 
