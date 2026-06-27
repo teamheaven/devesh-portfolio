@@ -19,15 +19,15 @@ import {
 } from "../icons.jsx";
 
 export const socials = [
-  { label: "GitHub", href: "https://github.com/", icon: Github },
-  { label: "LinkedIn", href: "https://www.linkedin.com/", icon: Linkedin },
+  { label: "GitHub", href: "https://github.com/teamheaven/", icon: Github },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/devesh-naik1003", icon: Linkedin },
   { label: "Email", href: "mailto:deveshnaik1003@gmail.com", icon: Mail }
 ];
 
 export const skills = [
   { title: "Programming", icon: Code2, items: ["Java", "Python", "SQL"] },
-  { title: "Development", icon: Layers3, items: ["React", "HTML", "CSS", "JavaScript", "Flutter", "Firebase"] },
-  { title: "Database", icon: Database, items: ["MySQL", "Oracle"] },
+  { title: "Development", icon: Layers3, items: ["React", "HTML", "CSS", "JavaScript", "Flutter", "Firebase", "API Management"] },
+  { title: "Database", icon: Database, items: ["MySQL", "Oracle", "MongoDB"] },
   {
     title: "Data Analytics",
     icon: BarChart3,
