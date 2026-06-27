@@ -60,9 +60,6 @@ export default function Projects() {
                   <a href="https://github.com/teamheaven/" target="_blank" rel="noreferrer" className="focus-ring inline-flex items-center gap-2 rounded-full bg-slate-950 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-teal-600 dark:bg-white dark:text-slate-950 dark:hover:bg-teal-200">
                     GitHub <Github size={16} />
                   </a>
-                  <a href="#contact" className="focus-ring inline-flex items-center gap-2 rounded-full border border-slate-200 bg-white px-4 py-2.5 text-sm font-semibold text-slate-800 transition hover:border-teal-300 hover:text-teal-700 dark:border-white/10 dark:bg-white/[0.06] dark:text-white dark:hover:text-teal-200">
-                    Demo <ExternalLink size={16} />
-                  </a>
                 </div>
               </div>
             </motion.article>
