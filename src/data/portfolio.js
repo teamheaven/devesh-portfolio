@@ -15,7 +15,8 @@ import {
   Sparkles,
   Trophy,
   UsersRound,
-  Wrench
+  Wrench,
+  Building2
 } from "../icons.jsx";
 
 export const socials = [
