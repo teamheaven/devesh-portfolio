@@ -39,13 +39,6 @@ export const skills = [
 
 export const experiences = [
   {
-    role: "Mobile App Developer",
-    company: "Doodle Homes",
-    duration: "July 2024 - July 2025",
-    description:
-      "Developed a cross-platform Flutter and Firebase application with real-time features, performed testing, debugging, and collaborated with stakeholders."
-  },
-  {
     role: "Frontend Developer Intern",
     company: "IBM",
     duration: "June 2024 - July 2024",
@@ -118,6 +111,21 @@ export const projects = [
     tech: ["Python", "Cybersecurity", "Machine Learning"],
     accent: "from-rose-400 to-orange-400",
     icon: ShieldCheck
+  },
+  {
+    title: "Doodle Homes Mobile Application",
+    description:
+      "Worked as a Mobile App Developer to build and enhance a real estate platform using Flutter and Firebase. Developed user-friendly interfaces, integrated backend services, optimized application performance, and collaborated with stakeholders to deliver scalable mobile solutions.",
+    features: [
+      "Designed and implemented responsive Flutter screens",
+      "Integrated Firebase Authentication and Firestore Database",
+      "Optimized app performance and resolved application bugs",
+      "Collaborated with UI/UX designers and project stakeholders",
+      "Maintained clean, reusable, and scalable code"
+    ],
+    tech: ["Flutter", "Dart", "Firebase", "Git", "REST APIs"],
+    accent: "from-rose-400 to-orange-400",
+    icon: Building2
   }
 ];
 
