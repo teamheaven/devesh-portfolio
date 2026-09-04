@@ -53,7 +53,7 @@ export default function Hero() {
             <motion.a whileHover={{ scale: 1.04 }} whileTap={{ scale: 0.98 }} href="#projects" className="focus-ring inline-flex items-center gap-2 rounded-full bg-blue-500 px-5 py-3 text-sm font-semibold text-white shadow-card transition hover:bg-blue-400">
               View Projects <ArrowRight size={17} />
             </motion.a>
-            <motion.a whileHover={{ scale: 1.04 }} whileTap={{ scale: 0.98 }} href="/Devesh Naik_CV.pdf" download className="focus-ring inline-flex items-center gap-2 rounded-full border border-blue-300/20 bg-white/[0.06] px-5 py-3 text-sm font-semibold text-blue-50 transition hover:border-blue-300/50 hover:bg-blue-400/10">
+            <motion.a whileHover={{ scale: 1.04 }} whileTap={{ scale: 0.98 }} href="/Devesh Naik.pdf" download className="focus-ring inline-flex items-center gap-2 rounded-full border border-blue-300/20 bg-white/[0.06] px-5 py-3 text-sm font-semibold text-blue-50 transition hover:border-blue-300/50 hover:bg-blue-400/10">
               Download Resume <Download size={17} />
             </motion.a>
             <motion.a whileHover={{ scale: 1.04 }} whileTap={{ scale: 0.98 }} href="https://github.com/teamheaven" target="_blank" rel="noreferrer" className="focus-ring inline-flex items-center gap-2 rounded-full border border-blue-300/20 bg-white/[0.06] px-5 py-3 text-sm font-semibold text-blue-50 transition hover:border-blue-300/50 hover:bg-blue-400/10">
